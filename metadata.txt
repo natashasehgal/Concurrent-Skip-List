@@ -1,0 +1,5 @@
+Min Number to Insert:0
+Max Number to Insert:1000
+Number of Threads:20
+Number of Action:100
+[75 = 75%] Percentage of Insert(out of 100):75
